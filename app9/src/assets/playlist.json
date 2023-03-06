@@ -1,0 +1,84 @@
+{"tracks":
+    [ 
+        {
+            "index": 1,
+            "img": "a-ha.jpeg",
+            "title": "Take on Me",
+            "artist": "a-ha",
+            "duration": "3:47",
+            "audio": "../src/assets/audio/take-on-me.mp3"
+        },
+        {
+            "index": 2,
+            "img": "billie-jean.jpeg",
+            "title": "Billie Jean",
+            "artist": "Michael Jackson",
+            "duration": "4:53",
+            "audio": "../src/assets/audio/billie-jean.mp3"
+        },
+        {
+            "index": 3,
+            "img": "the-police.jpeg",
+            "title": "Every Breath You Take",
+            "artist": "The Police",
+            "duration": "4:13",
+            "audio": "../src/assets/audio/every-breath-you-take.mp3"
+        },
+        {
+            "index": 4,
+            "img": "africa.jpeg",
+            "title": "Africa",
+            "artist": "TOTO",
+            "duration": "4:55",
+            "audio": "../src/assets/audio/africa.mp3"
+        },
+        {
+            "index": 5,
+            "img": "girls-just-want.png",
+            "title": "Girls Just Want to Have Fun",
+            "artist": "Cyndi Lauper",
+            "duration": "3:53",
+            "audio": "../src/assets/audio/girls-just-want-to-have-fun.mp3"
+        },
+        {
+            "index": 6,
+            "img": "karma.jpeg",
+            "title": "Karma Chameleon",
+            "artist": "Culture Club",
+            "duration": "3:56",
+            "audio": "../src/assets/audio/karma.mp3"
+        },
+        {
+            "index": 7,
+            "img": "sweet-dreams.jpeg",
+            "title": "Sweet Dreams",
+            "artist": "Eurythmics",
+            "duration": "4:53",
+            "audio": "../src/assets/audio/sweet-dreams.mp3"
+        },
+        {
+            "index": 8,
+            "img": "wham.jpg",
+            "title": "Wake Me Up Before You Go-Go",
+            "artist": "Wham!",
+            "duration": "3:51",
+            "audio": "../src/assets/audio/wake-me-up-before-you-go-go.mp3"
+        },
+        {
+            "index": 9,
+            "img": "livin.jpeg",
+            "title": "Livin' On A Prayer",
+            "artist": "Bon Jovi",
+            "duration": "4:11",
+            "audio": "../src/assets/audio/livin-on-a-prayer.mp3"
+        },
+            {
+            "index": 10,
+            "img": "staying.jpeg",
+            "title": "Stayin Alive",
+            "artist": "Bee Gees",
+            "duration": "4:03", 
+            "audio": "../src/assets/audio/staying-alive.mp3"
+        }
+    ]
+}
