@@ -1,0 +1,37 @@
+export { itemsData };
+
+const itemsData = {
+    items: [
+      {
+        title: 'Leafline Longboard',
+        simpleDescription: 'It has a custom leaf shape with dimensions of 9.0" x 41.0" and a wheelbase of 28.25" ...',
+        description: 'It has a custom leaf shape with dimensions of 9.0" x 41.0" and a wheelbase of 28.25". The deck features a spot color graphic print, while the components include Habitat logo trucks, 85a soft bushings, Habitat ABEC 5 bearings, and Habitat 70mm 95a wheels. The clear grip provides added traction for the rider. The board is constructed using classic 7-ply Canadian hard rock maple and features milled wheel wells for a smoother ride. The unique custom leaf shape of the pintail adds to its visual appeal and also provides an ideal shape for carving and cruising. Overall, this skateboard is a great choice for anyone looking for a high-quality board that is both functional and visually appealing.',
+        img: 'leafline.webp'
+      },
+      {
+        title: 'SWIRL 27',
+        simpleDescription: 'This skateboard features a 27" deck with a waffle non-slip surface, making it easier for riders to maintain their footing ...',
+        description: 'This skateboard features a 27" deck with a waffle non-slip surface, making it easier for riders to maintain their footing. The board also comes equipped with 4" A-grade 356 cast aluminum powder-coated trucks, which provide durability and stability for riders. The 59mm 83A polyurethane wheels offer a smooth ride, while the premium Abec 7 stainless steel bearings ensure the board rolls smoothly and efficiently. The skateboard also comes with high tensile bolts to keep the components securely in place. The dimensions of the skateboard are 27" L x 7.5" W x 5" H / 68.58cm L x 19.05cm W x 12.7cm H, with a wheelbase of 14 5/8” / 37.1cm. Finally, the board weighs in at 5.29 lbs / 2.4 kg, making it easy to transport and maneuver. Overall, this skateboard is an excellent choice for riders looking for a sturdy, high-quality board with reliable components.',
+        img: 'swirl.jpg'
+      },
+      {
+        title: 'DRIFT 27',
+        simpleDescription: 'This skateboard features a compact 27" deck with a waffle non-slip surface, providing excellent grip for riders ...',
+        description: 'This skateboard features a compact 27" deck with a waffle non-slip surface, providing excellent grip for riders. The board is equipped with sturdy 4" A-grade 356 cast aluminum powder-coated trucks, which ensure stability and durability. The 59mm 83A polyurethane wheels offer a smooth ride, and the premium Abec 7 stainless steel bearings ensure that the board rolls efficiently. The skateboard also comes with high tensile bolts to keep the components secure. The dimensions of the skateboard are 27" L x 7.5" W x 5" H / 68.58cm L x 19.05cm W x 12.7cm H, with a wheelbase of 14 5/8” / 37.1cm. At a weight of 5.29 lbs / 2.4 kg, this skateboard is lightweight and easy to carry around, making it perfect for commuters and riders who need to transport their board frequently. Overall, this skateboard is a great choice for anyone looking for a compact, sturdy board with reliable components.',
+        img: 'drift.webp'
+      },
+      {
+        title: 'Star Wars Boba Fett 22',
+        simpleDescription: "The Penny Skateboards Star Wars Boba Fett 22 Cruiser Complete Skateboard is an impressive addition to any rider's collection ...",
+        description: "The Penny Skateboards Star Wars Boba Fett 22 Cruiser Complete Skateboard is an impressive addition to any rider's collection. With a compact deck size of 6in x 22in, this skateboard is perfect for cruising around town or navigating through crowds. The board is factory assembled by Penny, making it ready to skate straight out of the box. The classic waffle top non-slip deck provides excellent traction for riders, while the quality color-coded Abec 7 stainless-steel bearings ensure a smooth ride. The skateboard features 3-inch aluminum trucks with a powder-coated finish for durability and style. The 59mm, 83A wheels offer a smooth ride, and the 83A color-coded cushions provide added comfort and support for riders. Overall, the Penny Skateboards Star Wars Boba Fett 22 Cruiser Complete Skateboard is an excellent choice for anyone looking for a compact, high-quality skateboard that is both functional and visually appealing.",
+        img: 'star.jpeg'
+      },
+      {
+        title: 'Space Galaxy',
+        simpleDescription: 'This skateboard is made of high-quality materials that make it both durable and functional ...',
+        description: 'This skateboard is made of high-quality materials that make it both durable and functional. The deck is made of 100% fresh high-strength pp with fiber, providing excellent strength and stability. The skateboard measures 22 X 6", making it perfect for kids, girls, and boys who are learning to skate or who enjoy cruising around town. The skateboard features 3-inch aluminum steel trucks, which are both lightweight and sturdy. The high-strength gel PU 60 X 45mm wheels offer a smooth ride and are perfect for navigating through different types of terrain. The deck is cobweb printed, adding a unique and visually appealing touch to the skateboard. The trucks and wheels come in black, while the bearings are ABEC-11 industrial standard "608" size. The skateboard has a wheel hardness of 85A and can support a maximum weight of 100kg. Overall, this skateboard is an excellent choice for anyone looking for a durable, high-quality board that is suitable for a variety of riders.',
+        img: 'space.webp'
+      }
+    ]
+  }
+
